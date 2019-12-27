@@ -88,22 +88,40 @@
     <option name="LAST_COMMIT_MESSAGE" value="GCI-gamer-1748 for openmrs" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Notifications" timestamp="1577457565395">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1577457565395" />
     <state x="275" y="25" key="#Project_Structure" timestamp="1577445117398">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1577445117398" />
+<<<<<<< Updated upstream
     <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1577446401517">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577446401517" />
+=======
+    <state x="350" y="0" key="CommitChangelistDialog2" timestamp="1577457456052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1577457456052" />
+>>>>>>> Stashed changes
     <state x="547" y="262" key="Github.ShareDialog" timestamp="1577444681304">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="547" y="262" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1577444681304" />
+<<<<<<< Updated upstream
     <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1577457337560">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577457337560" />
+=======
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1577457465970">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1577457465970" />
+>>>>>>> Stashed changes
     <state x="371" y="167" key="git4idea.merge.GitPullDialog" timestamp="1577444991158">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
