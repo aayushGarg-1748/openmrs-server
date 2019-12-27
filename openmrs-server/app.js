@@ -27,7 +27,10 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 
 app.get('/info',(req, res) => {
-    res.send(`ServerName = ${ServerName}, ServerVersion = ${ServerVersion}`);
+    res.json({
+        "ServerName" : `${ServerName}`,
+        "ServerVersion" : `${ServerVersion}`
+    });
 });
 
 // catch 404 and forward to error handler

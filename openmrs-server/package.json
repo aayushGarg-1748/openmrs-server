@@ -2,7 +2,7 @@
   "name": "openmrs-server",
   "version": "0.1.0",
   "description": "made by gamer-1748 for openmrs during gci",
-  "repository" : "Your repository URL",
+  "repository" : "https://github.com/aayushGarg-1748/openmrs-server/blob/master/openmrs-server",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
