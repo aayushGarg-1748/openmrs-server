@@ -1,0 +1,16 @@
+{
+  "categories": [{
+    "id" : "cty01",
+    "categoryName" : "Fruits"
+  }, {
+    "id" : "cty02",
+    "categoryName" : "Vegetables"
+  },{
+    "id" : "cty03",
+    "categoryName" : "Soft Drinks"
+  },{
+    "id" : "cty04",
+    "categoryName" : "Milk products"
+  }
+  ]
+}
